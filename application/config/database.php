@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'oruam2310';
+$db['default']['password'] = '$w0rdF1sh';
 $db['default']['database'] = 'sismobil';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
